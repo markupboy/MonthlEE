@@ -1,4 +1,4 @@
-Monthlee is a simple Expression Engine plugin that takes in a number from 1 to 12 and returns the corresponding month name.
+__MonthlEE__ is a simple Expression Engine plugin that takes in a number from 1 to 12 and returns the corresponding month name.
 
 Usage
 -----
