@@ -14,4 +14,4 @@ This plugin can be helpful in turning monthly/yearly archive urls into nicely fo
 
 	Archives for {exp:month_name month="{segment_3}"} {segment_2}
 	
-Which will output "Archives for June 2011"
+Which will output __Archives for June 2011__
