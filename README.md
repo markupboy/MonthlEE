@@ -1,4 +1,4 @@
-Month Name is a simple Expression Engine plugin that takes in a number from 1 to 12 and returns the corresponding month name.
+Monthlee is a simple Expression Engine plugin that takes in a number from 1 to 12 and returns the corresponding month name.
 
 Usage
 -----
